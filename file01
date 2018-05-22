@@ -1,27 +1,27 @@
 {
   patrimonio:[
     {
-      "empresa": "empresa1",
-      "item": "monitor",
-      "numeroserie": "12345",
-      "etiqueta": "991199"
+      empresa: "empresa1",
+      item: "monitor",
+      numeroserie: "12345",
+      etiqueta: "991199"
     },
-    {"empresa": "empresa1",
-      "item": "mouse",
-      "numeroserie": "123",
-      "etiqueta": "990000"
-    },
-    {
-      "empresa": "empresa2",
-      "item": "teclado",
-      "numeroserie": "8650M",
-      "etiqueta": "999988"
+    {  empresa: "empresa1",
+      item: "mouse",
+      numeroserie: "123",
+      etiqueta: "990000"
     },
     {
-      "empresa": "empresa3",
-      "item": "mesa",
-      "numeroserie": "112233",
-      "etiqueta": "998811"
+      empresa: "empresa2",
+      item: "teclado",
+      numeroserie: "8650M",
+      etiqueta: "999988"
+    },
+    {
+      empresa: "empresa3",
+      item: "mesa",
+      numeroserie: "112233",
+      etiqueta: "998811"
     }
   ]
 }
